@@ -1,0 +1,13 @@
+D:\Projects\DocuSign\Abena Saulka\DressWell\PresentationServicesLayer\DressWell.Presentation.Services\bin\Release\DressWell.Presentation.Services.dll
+D:\Projects\DocuSign\Abena Saulka\DressWell\PresentationServicesLayer\DressWell.Presentation.Services\bin\Release\DressWell.Presentation.Services.pdb
+D:\Projects\DocuSign\Abena Saulka\DressWell\PresentationServicesLayer\DressWell.Presentation.Services\bin\Release\DressWell.Business.Interfaces.dll
+D:\Projects\DocuSign\Abena Saulka\DressWell\PresentationServicesLayer\DressWell.Presentation.Services\bin\Release\DressWell.Presentation.Interfaces.dll
+D:\Projects\DocuSign\Abena Saulka\DressWell\PresentationServicesLayer\DressWell.Presentation.Services\bin\Release\DressWell.Presentation.ViewModel.dll
+D:\Projects\DocuSign\Abena Saulka\DressWell\PresentationServicesLayer\DressWell.Presentation.Services\bin\Release\DressWell.Business.Interfaces.pdb
+D:\Projects\DocuSign\Abena Saulka\DressWell\PresentationServicesLayer\DressWell.Presentation.Services\bin\Release\DressWell.Presentation.Interfaces.pdb
+D:\Projects\DocuSign\Abena Saulka\DressWell\PresentationServicesLayer\DressWell.Presentation.Services\bin\Release\DressWell.Presentation.ViewModel.pdb
+D:\Projects\DocuSign\Abena Saulka\DressWell\PresentationServicesLayer\DressWell.Presentation.Services\obj\Release\DressWell.Presentation.Services.csprojAssemblyReference.cache
+D:\Projects\DocuSign\Abena Saulka\DressWell\PresentationServicesLayer\DressWell.Presentation.Services\obj\Release\DressWell.Presentation.Services.csproj.CoreCompileInputs.cache
+D:\Projects\DocuSign\Abena Saulka\DressWell\PresentationServicesLayer\DressWell.Presentation.Services\obj\Release\DressWell.Presentation.Services.csproj.CopyComplete
+D:\Projects\DocuSign\Abena Saulka\DressWell\PresentationServicesLayer\DressWell.Presentation.Services\obj\Release\DressWell.Presentation.Services.dll
+D:\Projects\DocuSign\Abena Saulka\DressWell\PresentationServicesLayer\DressWell.Presentation.Services\obj\Release\DressWell.Presentation.Services.pdb

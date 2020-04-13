@@ -1,0 +1,15 @@
+D:\Projects\DocuSign\Abena Saulka\DressWell\BusinessLayer\DressWell.Business.Services\bin\Release\DressWell.Business.Services.dll
+D:\Projects\DocuSign\Abena Saulka\DressWell\BusinessLayer\DressWell.Business.Services\bin\Release\DressWell.Business.Services.pdb
+D:\Projects\DocuSign\Abena Saulka\DressWell\BusinessLayer\DressWell.Business.Services\bin\Release\DressWell.Business.Interfaces.dll
+D:\Projects\DocuSign\Abena Saulka\DressWell\BusinessLayer\DressWell.Business.Services\bin\Release\DressWell.Data.Interfaces.dll
+D:\Projects\DocuSign\Abena Saulka\DressWell\BusinessLayer\DressWell.Business.Services\bin\Release\DressWell.Data.Models.dll
+D:\Projects\DocuSign\Abena Saulka\DressWell\BusinessLayer\DressWell.Business.Services\bin\Release\DressWell.Data.Repository.dll
+D:\Projects\DocuSign\Abena Saulka\DressWell\BusinessLayer\DressWell.Business.Services\bin\Release\DressWell.Data.Interfaces.pdb
+D:\Projects\DocuSign\Abena Saulka\DressWell\BusinessLayer\DressWell.Business.Services\bin\Release\DressWell.Data.Models.pdb
+D:\Projects\DocuSign\Abena Saulka\DressWell\BusinessLayer\DressWell.Business.Services\bin\Release\DressWell.Data.Repository.pdb
+D:\Projects\DocuSign\Abena Saulka\DressWell\BusinessLayer\DressWell.Business.Services\bin\Release\DressWell.Business.Interfaces.pdb
+D:\Projects\DocuSign\Abena Saulka\DressWell\BusinessLayer\DressWell.Business.Services\obj\Release\DressWell.Business.Services.csprojAssemblyReference.cache
+D:\Projects\DocuSign\Abena Saulka\DressWell\BusinessLayer\DressWell.Business.Services\obj\Release\DressWell.Business.Services.csproj.CoreCompileInputs.cache
+D:\Projects\DocuSign\Abena Saulka\DressWell\BusinessLayer\DressWell.Business.Services\obj\Release\DressWell.Business.Services.csproj.CopyComplete
+D:\Projects\DocuSign\Abena Saulka\DressWell\BusinessLayer\DressWell.Business.Services\obj\Release\DressWell.Business.Services.dll
+D:\Projects\DocuSign\Abena Saulka\DressWell\BusinessLayer\DressWell.Business.Services\obj\Release\DressWell.Business.Services.pdb

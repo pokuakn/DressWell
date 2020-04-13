@@ -1,0 +1,11 @@
+D:\Projects\DocuSign\Abena Saulka\DressWell\DataLayer\DressWell.Data.Repository\bin\Debug\DressWell.Data.Repository.dll
+D:\Projects\DocuSign\Abena Saulka\DressWell\DataLayer\DressWell.Data.Repository\bin\Debug\DressWell.Data.Repository.pdb
+D:\Projects\DocuSign\Abena Saulka\DressWell\DataLayer\DressWell.Data.Repository\bin\Debug\DressWell.Data.Interfaces.dll
+D:\Projects\DocuSign\Abena Saulka\DressWell\DataLayer\DressWell.Data.Repository\bin\Debug\DressWell.Data.Models.dll
+D:\Projects\DocuSign\Abena Saulka\DressWell\DataLayer\DressWell.Data.Repository\bin\Debug\DressWell.Data.Interfaces.pdb
+D:\Projects\DocuSign\Abena Saulka\DressWell\DataLayer\DressWell.Data.Repository\bin\Debug\DressWell.Data.Models.pdb
+D:\Projects\DocuSign\Abena Saulka\DressWell\DataLayer\DressWell.Data.Repository\obj\Debug\DressWell.Data.Repository.csprojAssemblyReference.cache
+D:\Projects\DocuSign\Abena Saulka\DressWell\DataLayer\DressWell.Data.Repository\obj\Debug\DressWell.Data.Repository.csproj.CoreCompileInputs.cache
+D:\Projects\DocuSign\Abena Saulka\DressWell\DataLayer\DressWell.Data.Repository\obj\Debug\DressWell.Data.Repository.csproj.CopyComplete
+D:\Projects\DocuSign\Abena Saulka\DressWell\DataLayer\DressWell.Data.Repository\obj\Debug\DressWell.Data.Repository.dll
+D:\Projects\DocuSign\Abena Saulka\DressWell\DataLayer\DressWell.Data.Repository\obj\Debug\DressWell.Data.Repository.pdb

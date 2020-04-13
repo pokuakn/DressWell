@@ -1,0 +1,5 @@
+D:\Projects\DocuSign\Abena Saulka\DressWell\PresentationServicesLayer\DressWell.Presentation.ViewModel\bin\Release\DressWell.Presentation.ViewModel.dll
+D:\Projects\DocuSign\Abena Saulka\DressWell\PresentationServicesLayer\DressWell.Presentation.ViewModel\bin\Release\DressWell.Presentation.ViewModel.pdb
+D:\Projects\DocuSign\Abena Saulka\DressWell\PresentationServicesLayer\DressWell.Presentation.ViewModel\obj\Release\DressWell.Presentation.ViewModel.csproj.CoreCompileInputs.cache
+D:\Projects\DocuSign\Abena Saulka\DressWell\PresentationServicesLayer\DressWell.Presentation.ViewModel\obj\Release\DressWell.Presentation.ViewModel.dll
+D:\Projects\DocuSign\Abena Saulka\DressWell\PresentationServicesLayer\DressWell.Presentation.ViewModel\obj\Release\DressWell.Presentation.ViewModel.pdb

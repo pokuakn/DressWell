@@ -1,0 +1,6 @@
+D:\Projects\DocuSign\Abena Saulka\DressWell\DataLayer\DressWell.Data.Models\bin\Release\DressWell.Data.Models.dll
+D:\Projects\DocuSign\Abena Saulka\DressWell\DataLayer\DressWell.Data.Models\bin\Release\DressWell.Data.Models.pdb
+D:\Projects\DocuSign\Abena Saulka\DressWell\DataLayer\DressWell.Data.Models\obj\Release\DressWell.Data.Models.csproj.CoreCompileInputs.cache
+D:\Projects\DocuSign\Abena Saulka\DressWell\DataLayer\DressWell.Data.Models\obj\Release\DressWell.Data.Models.dll
+D:\Projects\DocuSign\Abena Saulka\DressWell\DataLayer\DressWell.Data.Models\obj\Release\DressWell.Data.Models.pdb
+D:\Projects\DocuSign\Abena Saulka\DressWell\DataLayer\DressWell.Data.Models\obj\Release\DressWell.Data.Models.csprojAssemblyReference.cache

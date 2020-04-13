@@ -1,0 +1,5 @@
+D:\Projects\DocuSign\Abena Saulka\DressWell\BusinessLayer\DressWell.Business.Interfaces\bin\Release\DressWell.Business.Interfaces.dll
+D:\Projects\DocuSign\Abena Saulka\DressWell\BusinessLayer\DressWell.Business.Interfaces\bin\Release\DressWell.Business.Interfaces.pdb
+D:\Projects\DocuSign\Abena Saulka\DressWell\BusinessLayer\DressWell.Business.Interfaces\obj\Release\DressWell.Business.Interfaces.csproj.CoreCompileInputs.cache
+D:\Projects\DocuSign\Abena Saulka\DressWell\BusinessLayer\DressWell.Business.Interfaces\obj\Release\DressWell.Business.Interfaces.dll
+D:\Projects\DocuSign\Abena Saulka\DressWell\BusinessLayer\DressWell.Business.Interfaces\obj\Release\DressWell.Business.Interfaces.pdb

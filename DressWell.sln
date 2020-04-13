@@ -1,0 +1,98 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DressWell", "DressWell\DressWell.csproj", "{769D274D-0F2A-4736-8C01-063C2F979F41}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BusinessLayer", "BusinessLayer", "{7499B8E0-1039-4EB5-8CD6-EAD6573E0021}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PresentationServicesLayer", "PresentationServicesLayer", "{075771BF-35E3-4944-A530-BD87B04D21D2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataLayer", "DataLayer", "{02C3A6B7-A73E-42CC-96E3-D5F4AB741CAD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{D5D5D0D3-E741-43C8-A445-F52F294FCEC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DressWell.Business.Interfaces", "BusinessLayer\DressWell.Business.Interfaces\DressWell.Business.Interfaces.csproj", "{FFECA2C7-7247-4622-A055-425A5957649F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DressWell.Business.Services", "BusinessLayer\DressWell.Business.Services\DressWell.Business.Services.csproj", "{1AA054FB-D743-4C85-B03E-E0DBF1A6435A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DressWell.Data.Models", "DataLayer\DressWell.Data.Models\DressWell.Data.Models.csproj", "{676E4887-0DBA-4611-815D-D9C329549AF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DressWell.Data.Repository", "DataLayer\DressWell.Data.Repository\DressWell.Data.Repository.csproj", "{AF5F95D5-1C26-4822-AD90-BEBED4EE2F1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DressWell.Data.Interfaces", "DataLayer\DressWell.Data.Interfaces\DressWell.Data.Interfaces.csproj", "{BCFD6685-725E-4EAE-A313-E2BA07610518}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DressWell.Presentation.Interfaces", "PresentationServicesLayer\DressWell.Presentation.Interfaces\DressWell.Presentation.Interfaces.csproj", "{4051BD2A-C751-4B70-8DC7-8DFB07E7D17B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DressWell.Presentation.ViewModel", "PresentationServicesLayer\DressWell.Presentation.ViewModel\DressWell.Presentation.ViewModel.csproj", "{F8AC0878-D50A-423C-A20E-CB17A10EC6AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DressWell.Presentation.Services", "PresentationServicesLayer\DressWell.Presentation.Services\DressWell.Presentation.Services.csproj", "{4E7CB86C-4D08-41B5-94E5-956EADFC05A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DressWell.BusinessServices.Tests", "Tests\DressWell.BusinessServices.Tests\DressWell.BusinessServices.Tests.csproj", "{3AE95C60-CC93-4AC2-8D30-B1D73D012BA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{769D274D-0F2A-4736-8C01-063C2F979F41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{769D274D-0F2A-4736-8C01-063C2F979F41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{769D274D-0F2A-4736-8C01-063C2F979F41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{769D274D-0F2A-4736-8C01-063C2F979F41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFECA2C7-7247-4622-A055-425A5957649F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFECA2C7-7247-4622-A055-425A5957649F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFECA2C7-7247-4622-A055-425A5957649F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFECA2C7-7247-4622-A055-425A5957649F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AA054FB-D743-4C85-B03E-E0DBF1A6435A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AA054FB-D743-4C85-B03E-E0DBF1A6435A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AA054FB-D743-4C85-B03E-E0DBF1A6435A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AA054FB-D743-4C85-B03E-E0DBF1A6435A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{676E4887-0DBA-4611-815D-D9C329549AF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{676E4887-0DBA-4611-815D-D9C329549AF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{676E4887-0DBA-4611-815D-D9C329549AF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{676E4887-0DBA-4611-815D-D9C329549AF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF5F95D5-1C26-4822-AD90-BEBED4EE2F1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF5F95D5-1C26-4822-AD90-BEBED4EE2F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF5F95D5-1C26-4822-AD90-BEBED4EE2F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF5F95D5-1C26-4822-AD90-BEBED4EE2F1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCFD6685-725E-4EAE-A313-E2BA07610518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCFD6685-725E-4EAE-A313-E2BA07610518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCFD6685-725E-4EAE-A313-E2BA07610518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCFD6685-725E-4EAE-A313-E2BA07610518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4051BD2A-C751-4B70-8DC7-8DFB07E7D17B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4051BD2A-C751-4B70-8DC7-8DFB07E7D17B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4051BD2A-C751-4B70-8DC7-8DFB07E7D17B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4051BD2A-C751-4B70-8DC7-8DFB07E7D17B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8AC0878-D50A-423C-A20E-CB17A10EC6AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8AC0878-D50A-423C-A20E-CB17A10EC6AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8AC0878-D50A-423C-A20E-CB17A10EC6AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8AC0878-D50A-423C-A20E-CB17A10EC6AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E7CB86C-4D08-41B5-94E5-956EADFC05A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E7CB86C-4D08-41B5-94E5-956EADFC05A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E7CB86C-4D08-41B5-94E5-956EADFC05A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E7CB86C-4D08-41B5-94E5-956EADFC05A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AE95C60-CC93-4AC2-8D30-B1D73D012BA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AE95C60-CC93-4AC2-8D30-B1D73D012BA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AE95C60-CC93-4AC2-8D30-B1D73D012BA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AE95C60-CC93-4AC2-8D30-B1D73D012BA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FFECA2C7-7247-4622-A055-425A5957649F} = {7499B8E0-1039-4EB5-8CD6-EAD6573E0021}
+		{1AA054FB-D743-4C85-B03E-E0DBF1A6435A} = {7499B8E0-1039-4EB5-8CD6-EAD6573E0021}
+		{676E4887-0DBA-4611-815D-D9C329549AF9} = {02C3A6B7-A73E-42CC-96E3-D5F4AB741CAD}
+		{AF5F95D5-1C26-4822-AD90-BEBED4EE2F1D} = {02C3A6B7-A73E-42CC-96E3-D5F4AB741CAD}
+		{BCFD6685-725E-4EAE-A313-E2BA07610518} = {02C3A6B7-A73E-42CC-96E3-D5F4AB741CAD}
+		{4051BD2A-C751-4B70-8DC7-8DFB07E7D17B} = {075771BF-35E3-4944-A530-BD87B04D21D2}
+		{F8AC0878-D50A-423C-A20E-CB17A10EC6AA} = {075771BF-35E3-4944-A530-BD87B04D21D2}
+		{4E7CB86C-4D08-41B5-94E5-956EADFC05A1} = {075771BF-35E3-4944-A530-BD87B04D21D2}
+		{3AE95C60-CC93-4AC2-8D30-B1D73D012BA1} = {D5D5D0D3-E741-43C8-A445-F52F294FCEC6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD411C8F-66FB-4E39-A6DD-2FE185351452}
+	EndGlobalSection
+EndGlobal

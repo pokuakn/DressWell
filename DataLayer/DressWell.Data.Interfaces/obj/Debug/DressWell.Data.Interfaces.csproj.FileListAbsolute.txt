@@ -1,0 +1,5 @@
+D:\Projects\DocuSign\Abena Saulka\DressWell\DataLayer\DressWell.Data.Interfaces\bin\Debug\DressWell.Data.Interfaces.dll
+D:\Projects\DocuSign\Abena Saulka\DressWell\DataLayer\DressWell.Data.Interfaces\bin\Debug\DressWell.Data.Interfaces.pdb
+D:\Projects\DocuSign\Abena Saulka\DressWell\DataLayer\DressWell.Data.Interfaces\obj\Debug\DressWell.Data.Interfaces.csproj.CoreCompileInputs.cache
+D:\Projects\DocuSign\Abena Saulka\DressWell\DataLayer\DressWell.Data.Interfaces\obj\Debug\DressWell.Data.Interfaces.dll
+D:\Projects\DocuSign\Abena Saulka\DressWell\DataLayer\DressWell.Data.Interfaces\obj\Debug\DressWell.Data.Interfaces.pdb

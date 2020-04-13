@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{769D274D-0F2A-4736-8C01-063C2F979F41}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>DressWell</RootNamespace>
+    <AssemblyName>DressWell</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Ninject, Version=3.3.4.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7, processorArchitecture=MSIL">
+      <HintPath>..\packages\Ninject.3.3.4\lib\net45\Ninject.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bootstrapper.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessLayer\DressWell.Business.Interfaces\DressWell.Business.Interfaces.csproj">
+      <Project>{ffeca2c7-7247-4622-a055-425a5957649f}</Project>
+      <Name>DressWell.Business.Interfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BusinessLayer\DressWell.Business.Services\DressWell.Business.Services.csproj">
+      <Project>{1aa054fb-d743-4c85-b03e-e0dbf1a6435a}</Project>
+      <Name>DressWell.Business.Services</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataLayer\DressWell.Data.Interfaces\DressWell.Data.Interfaces.csproj">
+      <Project>{bcfd6685-725e-4eae-a313-e2ba07610518}</Project>
+      <Name>DressWell.Data.Interfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataLayer\DressWell.Data.Repository\DressWell.Data.Repository.csproj">
+      <Project>{af5f95d5-1c26-4822-ad90-bebed4ee2f1d}</Project>
+      <Name>DressWell.Data.Repository</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PresentationServicesLayer\DressWell.Presentation.Interfaces\DressWell.Presentation.Interfaces.csproj">
+      <Project>{4051bd2a-c751-4b70-8dc7-8dfb07e7d17b}</Project>
+      <Name>DressWell.Presentation.Interfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PresentationServicesLayer\DressWell.Presentation.Services\DressWell.Presentation.Services.csproj">
+      <Project>{4e7cb86c-4d08-41b5-94e5-956eadfc05a1}</Project>
+      <Name>DressWell.Presentation.Services</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
